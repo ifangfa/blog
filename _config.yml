@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: 方法
+description: 有法有据
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -38,7 +38,7 @@ social:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
 google_site_verification: xxxxx
-lang: en
+lang: cn
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: FangFa
   url: https://github.com/vszhub/
   email: vszhub@gmail.com
